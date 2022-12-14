@@ -1,7 +1,7 @@
 <h1 align="center"> Whatsapp Clone - Javascript & Socket.io🔥 </h1> 
 
 <p align="center">
-  <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-14.8.3-important?style=flat-square" /></a>
+  <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/node-14.8.3-important?style=flat-square" /></a>
   <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.14.5-blueviolet?style=flat-square" /></a>
   <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
   <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
