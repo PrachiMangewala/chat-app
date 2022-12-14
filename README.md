@@ -1,4 +1,4 @@
-<h1 align="center"> Whatsapp Clone - Javascript, Node.js & Socket.io🔥 </h1> 
+<h1 align="center"> iDiscuss Chat App - Javascript, Node.js & Socket.io🔥 </h1> 
 
 # Sections 📚
 
@@ -10,7 +10,10 @@
 - For the frontend I have used HTML and styled it using CSS.
 - I have used `Socket.io` in this application for real time sending and receiving of messages.
 
-This app is basically a whatsapp clone. A user enters the session by entering his/her name and he can communicate with people in that session.
+This app is basically a whatsapp clone. A user enters the session by entering his/her name and he can communicate with people in that session. The app also notifies the other users when a new user has entered the chat room.
+
+# Screenshot of the Interface
+
 
 
 ### Splash Logo
@@ -76,6 +79,7 @@ If you are stuck somewhere and want to observe the deployment process in depth, 
 # Technologies used 🛠️
 - Javascript
 - Socket.io
+- Node.js
 - CSS
 - HTML
 
