@@ -40,5 +40,5 @@ We set up our server to log messages on connections and disconnections. And then
 
 # Screenshot of the Interface
 <p align="center"> 
-    <img src="images/interface.png" align="center" height="150"></img>
+    <img src="interface.png" align="center" height="150"></img>
 </p>
