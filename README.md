@@ -1,108 +1,17 @@
-<h1 align="center"> Whatsapp Clone - Javascript & Socket.io🔥 </h1> 
-
-<p align="center">
-  <a href="https://socket.io/"><img alt="Socket.io" src="https://img.shields.io/badge/node-14.8.3-important?style=flat-square" /></a>
-  <a href="https://www.npmjs.com/package/npm/v/6.13.4"><img alt="NPM" src="https://img.shields.io/badge/npm-6.14.5-blueviolet?style=flat-square" /></a>
-  <a href="https://reactjs.org/"><img alt="Made With React" src="https://img.shields.io/badge/made%20with-react-61DAFB?style=flat-square" /></a>
-  <a href="https://github.com/prettier/prettier"><img alt="code style: prettier" src="https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square?style=flat-square" /></a>
-  <br/>
-  <a href="http://badges.mit-license.org/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://github.com/shourygupta28/My-React-Portfolio/commits/master"><img alt="Maintenance" src="https://img.shields.io/badge/maintained-yes-green.svg?style=flat-square" /></a>
-  <a href="http://badges.mit-license.org/"><img alt="Website" src="https://img.shields.io/badge/website-up-yellow?style=flat-square" /></a>
-  <a href="https://shouryagupta.me/"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
-  <a href="https://img.shields.io/badge/price-free-ff69b4"><img alt="Price" src="https://img.shields.io/badge/price-free-ff69b4?style=flat-square" /></a>
-<!-- </p>
-<p align="center">If you want to discuss about something, then you can ask on my <a href="https://discord.com/invite/GkcbM5bwZr">Discord Server</a>.</p>
- -->
-<p align="center"> 
-    <a href="https://shourygupta28.github.io/My-React-Portfolio" target="_blank">
-    <img src="public/icons/desc.png"></img>
-  </a>
-</p>
-
-:star: Star us on GitHub — it helps!
+<h1 align="center"> Whatsapp Clone - Javascript, Node.js & Socket.io🔥 </h1> 
 
 # Sections 📚
 
-✔️ Summary and About me\
-✔️ Skills \
-✔️ Open Source Projects Connected with Github\
-✔️ Experience\
-✔️ Certifications 🏆\
-✔️ Blogs\
-✔️ Education\
-✔️ Contact me
+✔️ Introduction
 
-To view a live example, **[click here](https://shouryagupta.me/)**
+# Introduction 📋
 
-# Clone And Use 📋
+- The website is completely built on `Javascript` and `Node.js`.
+- For the frontend I have used HTML and styled it using CSS.
+- I have used `Socket.io` in this application for real time sending and receiving of messages.
 
-- The website is completely built on `react-js` library of `javascript` and that's why we need `nodejs` and `npm` installed.
-- While installing `nodejs` and `npm`, try to install versions which are equal or greater than the versions mentioned in badges above.
-- In case you want to help developing it or simply saving it, you can fork the repository just by clicking the button on the top-right corner of this page.
-- After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
-  - ```bash
-     git clone https://github.com/shourygupta28/My-React-Portfolio.git
-    ```
-  - This will clone the whole repository in your system.
-- To download required dependencies to your system, navigate to the directory where the cloned repository resides and execute following command:
-  - ```node
-    npm install
-    ```
-- Now, the project is ready to use.
-- You can check it using `npm start`, it will open the website locally on your browser.
+This app is basically a whatsapp clone. A user enters the session by entering his/her name and he can communicate with people in that session.
 
-# Customize it to make your own portfolio ✏️
-
-In this project, there are basically 4 things that you need to change to customize this to anyone else's portfolio: **package.json**, **Personal Information**, **Github Information** and **Splash Logo**.
-
-### package.json
-
-Open this file, which is in the main cloned directory, choose any "name" and change "homepage " to `https://<your-github-username>.github.io`. Do not forget the `https://`, otherwise fonts will not load.
-
-### Personal Information
-
-You will find `src/portfolio.js` file which contains the complete information about the user. The file looks something like below:
-
-```javascript
-// Home Page
-const greeting = {
-    ...
-}
-
-// Social Media
-const socialMediaLinks = {
-    ...
-}
-
-...
-```
-
-You can change the personal information, experience, education, social media, certifications, blog information, contact information etc. in `src/portfolio.js` to directly reflect them in portfolio website.
-
-### Github Information
-
-You will find `git_data_fetcher.mjs` file in the main directory of the repository. This file is used to fetch the data (Pull requests, Issues, Organizations, Pinned projects etc.) from your github.
-If you open the file, you will see below component at the top of the file. You need to change only that component.
-
-```javascript
-const openSource = {
-  githubConvertedToken: "Your Github Token Here.",
-  githubUserName: "Your Github Username Here.",
-};
-```
-
-You can get a github token as described [here](https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token). Give all permissions while generating token. Also add your `githubUserName` in the correct field inside `git_data_fetcher.js`.
-Now, you need to run following command.
-
-**Warning:** Treat your tokens like passwords and keep them secret. When working with the API, use tokens as environment variables instead of hardcoding them into your programs.
-
-```node
-node git_data_fetcher.mjs
-```
-
-This will fetch all the data from your github and it will automatically replace my data with yours.
-Whenever you want to update the github related information on the website you need to run this command.
 
 ### Splash Logo
 
