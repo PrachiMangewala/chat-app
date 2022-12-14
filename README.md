@@ -1,9 +1,4 @@
-<p align="center"> 
-    <img src="images/masterportfolio-banner-light.png" align="center" height="150"></img>
-</p>
-
-<h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
-<h3 align="center"> A clean, beautiful, responsive and 100% customizable portfolio <br /> template for Software Developers! </h3>
+<h1 align="center"> Whatsapp Clone - Javascript & Socket.io🔥 </h1> 
 
 <p align="center">
   <a href="https://nodejs.org/en/blog/release/v12.13.0/"><img alt="NodeJS" src="https://img.shields.io/badge/node-14.8.3-important?style=flat-square" /></a>
@@ -170,13 +165,10 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 If you are stuck somewhere and want to observe the deployment process in depth, then please watch the [video](http://www.youtube.com/watch?v=IwBS39TOmpA) here.
 
 # Technologies used 🛠️
-
-- [React](https://reactjs.org/)
-- [graphql](https://graphql.org/)
-- [apollo-boost](https://www.apollographql.com/docs/react/get-started/)
-- [baseui](https://github.com/uber/baseweb)
-- [react-reveal](https://www.react-reveal.com/)
-- [styled-components](https://styled-components.com/)
+- Javascript
+- Socket.io
+- CSS
+- HTML
 
 # illustrations 🍥
 
