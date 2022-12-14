@@ -13,7 +13,9 @@
 This app is basically a whatsapp clone. A user enters the session by entering his/her name and he can communicate with people in that session. The app also notifies the other users when a new user has entered the chat room.
 
 # Screenshot of the Interface
-
+<p align="center"> 
+    <img src="images/interface.png" align="center" height="150"></img>
+</p>
 
 
 ### Splash Logo
